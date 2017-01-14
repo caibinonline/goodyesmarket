@@ -1,5 +1,5 @@
 For Chinese well-known reasons, please visit the homepage website of WhatsVPN at the following URLs.<br>
-由于众所周知的原因，请通过下面网址访问萝卜加速器(WhatsVPN)的官网.加我们的微信公众号:whatsvpn<br>
+由于众所周知的原因，请通过下面网址访问萝卜加速器(WhatsVPN)的官网.<br>
 https://m.whatsvpn.org<br>
 https://gg.51czs.com<br>
 <br><br>
@@ -13,3 +13,14 @@ https://itunes.apple.com/us/app/id1052656120<br>
 (萝卜加速器)WhatsVPN (windows download):<br>
 https://m.whatsvpn.org/download.php#windows<br>
 https://gg.51czs.com/download.php#windows<br>
+<br><br>
+联系我们<br>
+Customer email: getwhatsvpn@gmail.com<br>
+facebook:https://m.facebook.com/whatsvpn<br>
+微信公众号:whatsvpn<br>
+联系电话:<br>
++852 31108636<br>
++86 2885366298 (only china)<br>
+<br>
+微信公众号的二维码:<br>
+<img src="https://raw.githubusercontent.com/wanjunlengfeng/goodyesmarket/master/gongzongweichat-300x300.jpg"></img><br>
