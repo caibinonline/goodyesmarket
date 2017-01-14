@@ -16,6 +16,12 @@ https://itunes.apple.com/us/app/id1052656120<br>
 https://m.whatsvpn.org/download.php#windows<br>
 https://gg.51czs.com/download.php#windows<br>
 <br><br>
+(翻越vpn免费版)crossVPN (android download):<br>
+https://www.crossvpn.info<br>
+google play:<br>
+https://play.google.com/store/apps/details?id=com.goodyes.vpn.cn<br>
+
+<br><br>
 联系我们<br>
 Customer email: getwhatsvpn@gmail.com<br>
 facebook:https://m.facebook.com/whatsvpn<br>
