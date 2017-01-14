@@ -3,16 +3,13 @@ For Chinese well-known reasons, please visit the homepage website of WhatsVPN at
 由于众所周知的原因，请通过下面网址访问萝卜加速器(WhatsVPN)的官网.萝卜加速器有永久免费的线路,永久免费使用<br>
 https://m.whatsvpn.org<br>
 https://gg.51czs.com<br>
-<br><br>
 <h3>(萝卜加速器)WhatsVPN (android download):</h3>
 https://m.whatsvpn.org/download.php#android<br>
 https://gg.51czs.com/download.php#android<br>
 google play:<br>
-https://play.google.com/store/apps/details?id=com.goodyes.whatsvpn<br>
-<br>
+https://play.google.com/store/apps/details?id=com.goodyes.whatsvpn
 <h3>(萝卜加速器)WhatsVPN (IOS download):</h3>
 https://itunes.apple.com/us/app/id1052656120<br>
-<br>
 <h3>(萝卜加速器)WhatsVPN (windows download):</h3>
 https://m.whatsvpn.org/download.php#windows<br>
 https://gg.51czs.com/download.php#windows<br>
@@ -22,10 +19,9 @@ https://www.crossvpn.info<br>
 google play:<br>
 https://play.google.com/store/apps/details?id=com.goodyes.vpn.cn<br>
 
-<br><br>
 <h2>联系我们<h2>
 Customer email: getwhatsvpn@gmail.com<br>
-facebook:https://m.facebook.com/whatsvpn<br>
+facebook:https://m.facebook.com/whatsvpn
 <h3>微信公众号:whatsvpn</h3>
 联系电话:<br>
 +852 31108636<br>
@@ -33,9 +29,5 @@ facebook:https://m.facebook.com/whatsvpn<br>
 <br>
 微信公众号的二维码:<br>
 <a href="#"><img src="https://raw.githubusercontent.com/wanjunlengfeng/goodyesmarket/master/gongzongweichat-300x300.jpg"></a><br>
-
-<br>
-<br>
-<br>
 
 要用它?已经支持android,windows,iPhone到app store，搜[萝卜加速器]或[whatsvpn],或搜索公众号[whatsvpn]进行使用,永久免费
