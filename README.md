@@ -26,3 +26,9 @@ facebook:https://m.facebook.com/whatsvpn<br>
 <br>
 微信公众号的二维码:<br>
 <img src="https://raw.githubusercontent.com/wanjunlengfeng/goodyesmarket/master/gongzongweichat-300x300.jpg"></img><br>
+
+<br>
+<br>
+<br>
+
+要用它?已经支持android,windows,iPhone到app store，搜[萝卜加速器]或[whatsvpn],或搜索公众号[whatsvpn]进行使用,永久免费
