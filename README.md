@@ -7,7 +7,7 @@ https://gg.51czs.com<br>
 https://m.whatsvpn.org/download.php#android<br>
 https://gg.51czs.com/download.php#android<br>
 google play:<br>
-https://play.google.com/store/apps/details?id=com.goodyes.whatsvpn
+https://play.google.com/store/apps/details?id=com.goodyes.whatsvpn<br>
 (萝卜加速器)WhatsVPN (IOS download):<br>
 https://itunes.apple.com/us/app/id1052656120<br>
 (萝卜加速器)WhatsVPN (windows download):<br>
