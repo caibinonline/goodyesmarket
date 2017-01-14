@@ -14,3 +14,4 @@ https://itunes.apple.com/us/app/id1052656120<br>
 https://m.whatsvpn.org/download.php#windows<br>
 https://gg.51czs.com/download.php#windows<br>
 
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1261146520'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s95.cnzz.com/stat.php%3Fid%3D1261146520%26show%3Dpic2' type='text/javascript'%3E%3C/script%3E"));</script>
