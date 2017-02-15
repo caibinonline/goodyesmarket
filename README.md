@@ -1,6 +1,6 @@
 <a href="#"><img src="https://raw.githubusercontent.com/wanjunlengfeng/goodyesmarket/master/logo.png"></a><br>
 For Chinese well-known reasons, please visit the homepage website of WhatsVPN at the following URLs.<br>
-由于众所周知的原因，请通过下面网址访问萝卜加速器(WhatsVPN)的官网.萝卜加速器有永久免费的线路,永久免费使用<br>
+由於眾所周知的原因，請通過下面網址訪問蘿蔔加速器(WhatsVPN)的官網.蘿蔔加速器有永久免費的線路,永久免費使用<br>
 https://m.whatsvpn.org<br>
 https://gg.51czs.com<br>
 (萝卜加速器)WhatsVPN (android download):<br>
