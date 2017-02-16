@@ -1,4 +1,4 @@
-<a href="#"><img height="50" with="50" src="images/logo.png"></a><br>
+<a href="#"><img height="40" with="40" src="images/logo.png"></a><br>
 For Chinese well-known reasons,please visit the homepage website of WhatsVPN at the following URLs.<br>
 由於眾所周知的原因，請通過下面網址訪問蘿蔔加速器(WhatsVPN)的官網.蘿蔔加速器有永久免費的線路,永久免費使用<br>
 https://m.whatsvpn.in<br>
@@ -7,11 +7,11 @@ WhatsVPN (android download)(萝卜加速器-安卓):<br>
 https://m.whatsvpn.in/download.php#android<br>
 google play:<br>
 https://play.google.com/store/apps/details?id=com.goodyes.whatsvpn<br>
-)WhatsVPN (IOS download)(萝卜加速器-苹果:<br>
+WhatsVPN (IOS download)(萝卜加速器-苹果):<br>
 https://itunes.apple.com/us/app/id1052656120<br>
 WhatsVPN (windows download)(萝卜加速器-电脑版):<br>
 https://m.whatsvpn.in/download.php#windows<br>
-<br><br>
+<br>
 crossVPN (android download)(翻越vpn免费版):<br>
 http://www.crossvpn.info<br>
 google play:<br>
